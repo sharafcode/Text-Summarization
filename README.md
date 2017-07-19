@@ -1,2 +1,2 @@
-# Algorithms-analyzer-using-genetic-algorithms
-This code used for analysis for two algorithms for different sizes of input to know what to use for a specific range size of input.
+# Extractive-Text-Summarizer 
+Basic code for stastical learning of each word frequency in the sentence to generate for each article a specific number of snippets to summarize it.
